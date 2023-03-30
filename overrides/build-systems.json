@@ -2510,7 +2510,8 @@
     "setuptools"
   ],
   "builddsl": [
-    "poetry"
+    "poetry",
+    "setuptools"
   ],
   "bumps": [
     "setuptools"
@@ -18102,6 +18103,7 @@
     "setuptools"
   ],
   "types-dataclasses": [
+    "poetry",
     "setuptools"
   ],
   "types-dateutil": [
